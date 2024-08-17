@@ -211,6 +211,7 @@ export default function TodoList({
                                     type="checkbox"
                                     className=""
                                     disabled={pending}
+                                    defaultChecked={todo.completed}
                                     onChange={(e) => {
                                       startTransition(async () => {
                                         const isCompleted = e.target.checked
