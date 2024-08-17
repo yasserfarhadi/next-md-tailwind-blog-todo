@@ -1,0 +1,28 @@
+{
+  "Navbar": {
+    "home": "صفحه اصلی",
+    "articles": "مقالات",
+    "todo-list": "Todo List",
+    "login": "ورود",
+    "lang": "زبان"
+  },
+  "Todo": {
+    "all": "همه",
+    "completed": "انجام شده",
+    "incomplete": "انجام نشده",
+    "important": "مهم",
+    "placeholder": "عنوان...",
+    "add_submit": "افزودن به لیست",
+    "important_label": "آیا مهم است؟",
+    "edit_submit": "ویرایش",
+    "comp_label": "انجام شده",
+    "archive": "حذف",
+    "filters": "فیلترها",
+    "cancel": "انصراف"
+  },
+  "Theme": {
+    "dark": "تاریک",
+    "light": "روشن",
+    "system": "سیستم"
+  }
+}

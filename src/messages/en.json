@@ -1,0 +1,28 @@
+{
+  "Navbar": {
+    "home": "Home",
+    "articles": "Articles",
+    "todo-list": "Todo List",
+    "login": "Login",
+    "lang": "Language"
+  },
+  "Todo": {
+    "all": "All",
+    "completed": "Completed",
+    "incomplete": "Incomplete",
+    "important": "Important",
+    "placeholder": "Todo title...",
+    "add_submit": "Add to list",
+    "important_label": "Is it important?",
+    "edit_submit": "Edit todo",
+    "comp_label": "Completed",
+    "archive": "Archive",
+    "filters": "Filters",
+    "cancel": "Cancel"
+  },
+  "Theme": {
+    "dark": "Dark",
+    "light": "Light",
+    "system": "System"
+  }
+}
