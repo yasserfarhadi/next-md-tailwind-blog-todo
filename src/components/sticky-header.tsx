@@ -100,10 +100,10 @@ export default function StickyHeader() {
             className="flex origin-left items-center text-xl font-semibold uppercase"
           >
             <span className="font-en -ml-1.5 inline-block -rotate-90 text-[10px] leading-[0]">
-              SOS
+              BBK
             </span>
             <span className="font-en -ml-1 text-2xl tracking-[-.075em]">
-              Iran
+              BBK
             </span>
           </motion.div>
         </div>
